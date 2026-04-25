@@ -4,8 +4,9 @@ import pickle
 import pandas as pd
 import os
 
-# Load model
-model = pickle.load(open('airline_recommendation_model.pkl', 'rb'))
+model_path = os.path.join(os.path.dirname(__file__), "airline_recommendation_model.pkl")
+
+model = pickle.load(open(model_path, 'rb'))
 
 st.set_page_config(page_title="Airline Recommendation Dashboard", layout="wide")
 
