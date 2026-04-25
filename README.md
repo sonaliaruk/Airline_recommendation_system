@@ -1,5 +1,5 @@
 # Indigo_Airline_recommendation_system
-ML project to predict airline recommendation using Streamlit
+ML project to predict airline recommendation 
 
 ![Airline Image](https://github.com/sonaliaruk/Airline_recommendation_system/blob/main/airplane_image.jpg?raw=true)
 
