@@ -13,12 +13,12 @@ This project focuses on analyzing and classifying airline passenger reviews usin
 
 # 🚀 Project Workflow
 
-1. Data Preparation
+**1. Data Preparation**
   * Transformed date-related columns into proper datetime format
   * Standardized rating values for consistency
   * Handled missing and inconsistent data through cleaning techniques
 
-2. Exploratory Data Analysis (EDA)
+**2. Exploratory Data Analysis (EDA)**
 * Analyzed airline popularity and customer preferences
 * Studied trends across cabin classes and service ratings
 * Visualized insights using bar charts, pie charts, and trend plots
