@@ -23,22 +23,22 @@ This project focuses on analyzing and classifying airline passenger reviews usin
 * Studied trends across cabin classes and service ratings
 * Visualized insights using bar charts, pie charts, and trend plots
 
-3. Statistical Analysis
+**3. Statistical Analysis**
 * Conducted hypothesis testing using: T-Test , Chi-Square Test , ANOVA
 Examined relationships between traveler type, cabin class, and satisfaction levels
 
-4. Feature Engineering
+**4. Feature Engineering**
 * Converted categorical variables into numerical form using encoding techniques
 * Considered dimensionality reduction, but skipped due to already strong model performance
 
-5. Model Development
+**5. Model Development**
 * Implemented multiple machine learning models:
 Decision Tree , Random Forest , XGBoost
 * Dataset split into:
 70% Training
 30% Testing
 
-6. Streamlit Web Application
+**6. Streamlit Web Application**
 * Built an interactive user interface using Streamlit
 * Enabled users to input passenger experience ratings
 - Displayed:
