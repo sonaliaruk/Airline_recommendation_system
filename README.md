@@ -38,17 +38,6 @@ Decision Tree , Random Forest , XGBoost
 70% Training
 30% Testing
 
-**6. Streamlit Web Application**
-* Built an interactive user interface using Streamlit
-* Enabled users to input passenger experience ratings
-- Displayed:
-* Recommendation result (Yes/No)
-* Probability score (%)
-- Developed a mini dashboard showing:
-* Overall recommendation rate
-* Average service ratings
-* Weakest performance areas
-
 # Business Insights
 The model enables airlines to:
 * Predict which passengers are likely to recommend their service
